@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nom-de-votre-depot/static/css/main.2cb9a270.css",
-    "main.js": "/nom-de-votre-depot/static/js/main.92578579.js",
-    "static/js/787.393238a3.chunk.js": "/nom-de-votre-depot/static/js/787.393238a3.chunk.js",
-    "index.html": "/nom-de-votre-depot/index.html",
-    "main.2cb9a270.css.map": "/nom-de-votre-depot/static/css/main.2cb9a270.css.map",
-    "main.92578579.js.map": "/nom-de-votre-depot/static/js/main.92578579.js.map",
-    "787.393238a3.chunk.js.map": "/nom-de-votre-depot/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/test-deploy/static/css/main.2cb9a270.css",
+    "main.js": "/test-deploy/static/js/main.474b2b84.js",
+    "static/js/787.393238a3.chunk.js": "/test-deploy/static/js/787.393238a3.chunk.js",
+    "index.html": "/test-deploy/index.html",
+    "main.2cb9a270.css.map": "/test-deploy/static/css/main.2cb9a270.css.map",
+    "main.474b2b84.js.map": "/test-deploy/static/js/main.474b2b84.js.map",
+    "787.393238a3.chunk.js.map": "/test-deploy/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cb9a270.css",
-    "static/js/main.92578579.js"
+    "static/js/main.474b2b84.js"
   ]
 }
