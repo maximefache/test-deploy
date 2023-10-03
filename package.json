@@ -1,7 +1,7 @@
 {
   "name": "tic_tac_toe",
   "version": "0.1.0",
-  "homepage": "https://votre-utilisateur.github.io/nom-de-votre-depot",
+  "homepage": "https://maximefache.github.io/test-deploy/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
